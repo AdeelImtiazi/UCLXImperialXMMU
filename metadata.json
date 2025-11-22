@@ -1,0 +1,5 @@
+{
+  "name": "NEXUS Crisis Response",
+  "description": "Offline-first logistics management for crisis zones. Features dual-view architecture for frontline pharmacists and command center logistics, powered by Gemini for supply chain analysis.",
+  "requestFramePermissions": []
+}
